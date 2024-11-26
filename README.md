@@ -30,7 +30,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite Logo" width="60">](https://vite.dev/) &nbsp; &nbsp; &nbsp;
 [<img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp; &nbsp; &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="VSCode Logo" width="60">](https://github.com/) &nbsp;
-[<img src="https://banner2.cleanpng.com/20180920/aey/kisspng-scalable-vector-graphics-github-computer-icons-log-github-brand-octacat-social-svg-png-icon-free-down-5ba35d7db54fe5.6273953815374329577427.jpg" alt="VSCode Logo" width="60">](https://github.com/) &nbsp;
+
 
 
 
