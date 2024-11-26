@@ -37,11 +37,4 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 
 
-https://banner2.cleanpng.com/20180920/aey/kisspng-scalable-vector-graphics-github-computer-icons-log-github-brand-octacat-social-svg-png-icon-free-down-5ba35d7db54fe5.6273953815374329577427.jpg
-
-
-
-
-
-
 
