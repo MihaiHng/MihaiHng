@@ -28,7 +28,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50">](https://www.w3schools.com/css/) 
 [<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="React Logo" width="100">](https://react.dev/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite Logo" width="60">](https://vite.dev/) &nbsp; &nbsp; &nbsp;
-[<img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp; &nbsp;
+[<img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp; &nbsp; &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="VSCode Logo" width="60">](https://github.com/) &nbsp;
 
 
