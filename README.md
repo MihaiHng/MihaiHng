@@ -17,10 +17,12 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 # Tech Stack
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100">
+
 ![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
 ![Node.js Logo](https://nodejs.org/static/images/logo.svg)
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+
 
 
 
