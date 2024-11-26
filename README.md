@@ -19,7 +19,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 
 [<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="50">](https://soliditylang.org)
-[<img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/assets/foundry-banner.svg" alt="Foundry Logo" width="50">](https://getfoundry.sh/)
+[<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry Logo" width="50">](https://getfoundry.sh/)
 
 
 
