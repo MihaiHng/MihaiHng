@@ -8,11 +8,12 @@ As I am continuing the development of my portfolio, I am also looking forward to
 💻
 
 
-- 🌱 I’ve just finished the Cyfrin Updraft - Advanced Foundry course
+- 🌱 I’ve just finished the Cyfrin Updraft - Advanced Foundry course 
 - 🔭 I’m currently working on the next porject for my portfolio - Password Shielded Transfer Service
 - 👯 I’m looking to collaborate on Web3/Solidity projects 
-- 📫 How to reach me: [...](https://www.linkedin.com/in/mihai-hanga-03712749/)
-- ⚡ You can visit my portfolio here:  [...](https://mihaihanga-portfolio.netlify.app/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mihai-hanga-03712749/)
+- ⚡ You can visit my portfolio here:  [My Portfolio](https://mihaihanga-portfolio.netlify.app/)
 -->
 
-![Solidity Logo](https://docs.soliditylang.org/en/v0.8.28/)
+[![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)](https://soliditylang.org)
+
