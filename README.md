@@ -22,9 +22,10 @@ As I am continuing the development of my portfolio, I am also looking forward to
 [<img src="https://brandeps.com/logo-download/E/Ethereum-logo-vector-01.svg" alt="Ethereum Logo" width="50">](https://ethereum.org) &nbsp;
 [<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry Logo" width="50">](https://github.com/foundry-rs) &nbsp; &nbsp;
 [<img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" alt="Hardhat Logo" width="50">](https://hardhat.org) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="50">](https://www.javascript.com/) &nbsp; &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="70">](https://www.javascript.com/) &nbsp; &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="Html Logo" width="70">](https://html.com/) &nbsp; &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50">](https://www.w3schools.com/css/) &nbsp;
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React Logo" width="50">](https://react.dev/) &nbsp;
 
 
 
