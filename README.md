@@ -27,8 +27,8 @@ As I am continuing the development of my portfolio, I am also looking forward to
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="Html Logo" width="70">](https://html.com/) &nbsp; &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50">](https://www.w3schools.com/css/) &nbsp; 
 [<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="React Logo" width="100">](https://react.dev/) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite Logo" width="60">](https://vite.dev/) &nbsp; &nbsp;
-[<img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite Logo" width="60">](https://vite.dev/) &nbsp; &nbsp; &nbsp;
+[<img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp;
 
 
 
