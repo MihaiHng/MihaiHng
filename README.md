@@ -18,7 +18,9 @@ As I am continuing the development of my portfolio, I am also looking forward to
 # Tech Stack
 
 
-[<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="100">](https://soliditylang.org)
+[<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="50">](https://soliditylang.org)
+[<img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/assets/foundry-banner.png" alt="Foundry Logo" width="50">](https://getfoundry.sh/)
+
 
 
 
