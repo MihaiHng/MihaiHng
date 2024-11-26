@@ -17,7 +17,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 # Tech Stack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100" href="https://docs.soliditylang.org/en/v0.8.28/">
 
 ![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
 ![Node.js Logo](https://nodejs.org/static/images/logo.svg)
