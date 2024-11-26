@@ -18,6 +18,9 @@ As I am continuing the development of my portfolio, I am also looking forward to
 # Tech Stack
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100">](https://soliditylang.org)
+<a href="https://soliditylang.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100">
+</a>
 
 
 ![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
