@@ -20,8 +20,9 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 [<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="50">](https://soliditylang.org)
 [<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry Logo" width="50">](https://github.com/foundry-rs)
+[<img src="https://raw.githubusercontent.com/nomiclabs/hardhat/master/packages/hardhat-logo/logo.svg" alt="Hardhat Logo" width="50">](https://hardhat.org)
 [<img src="https://brandeps.com/logo-download/E/Ethereum-logo-vector-01.svg" alt="Ethereum Logo" width="50">](https://ethereum.org)
-[<img src="https://static.vecteezy.com/system/resources/previews/002/463/890/non_2x/ethereum-logo-color-crypto-currency-symbol-isolated-vector.jpg" alt="Ethereum Logo" width="50">](https://ethereum.org)
+
 
 
 
