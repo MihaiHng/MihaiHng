@@ -20,7 +20,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 [<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="50">](https://soliditylang.org)
 [<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry Logo" width="50">](https://github.com/foundry-rs)
-[<img src="https://cdn.pixabay.com/photo/2021/05/24/09/15/ethereum-logo-6278328_1280.png" alt="Ethereum Logo" width="50">](https://ethereum.org)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-eSjGY5DmQe0xK2b7a4DyUqMu9QWusxYWp0bKd4pMHxTIA2YrtVnIQ9ytAm_wdSrrrw&usqp=CAU" alt="Ethereum Logo" width="50">](https://ethereum.org)
 
 
 
