@@ -20,21 +20,6 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 [<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="100">](https://soliditylang.org)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <g fill="#C1C1E1"> <!-- Change fill to a lighter color -->
-    <a href="https://soliditylang.org" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="50">
-    </a>
-  </g>
-</svg>
-
-
-
-
-
-![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
-![Node.js Logo](https://nodejs.org/static/images/logo.svg)
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 
 
