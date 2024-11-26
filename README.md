@@ -18,6 +18,8 @@ As I am continuing the development of my portfolio, I am also looking forward to
 # Tech Stack
 
 
+[<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity Logo" width="100">](https://soliditylang.org)
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
   <g fill="#C1C1E1"> <!-- Change fill to a lighter color -->
     <a href="https://soliditylang.org" target="_blank">
@@ -26,7 +28,6 @@ As I am continuing the development of my portfolio, I am also looking forward to
   </g>
 </svg>
 
-![Uploading 68747470733a2<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 523.9 813"><style type="text/css">.st0{opacity:0.45;enable-background:new;}.st1{opacity:0.6;enable-background:new;}.st2{opacity:0.8;enable-background:new;}</style><path class="st0" d="M391.9 0l-130.7 232.3H0L130.6 0 391.9 0"/><path class="st1" d="M261.2 232.3h261.3L391.9 0h-261.3L261.2 232.3z"/><path class="st2" d="M130.6 464.5l130.6-232.2L130.6 0 0 232.3 130.6 464.5z"/><path class="st0" d="M131.9 813l130.7-232.3h261.3L393.2 813H131.9"/><path class="st1" d="M262.6 580.7h-261.3L131.9 813H393.2L262.6 580.7z"/><path class="st2" d="M393.2 348.5l-130.6 232.2L393.2 813l130.7-232.3L393.2 348.5z"/></svg>f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39382f536f6c69646974795f6c6f676f2e737667.svg…]()
 
 
 
