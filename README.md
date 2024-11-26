@@ -29,7 +29,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 [<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="React Logo" width="100">](https://react.dev/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite Logo" width="60">](https://vite.dev/) &nbsp; &nbsp; &nbsp;
 [<img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp;
-[<img src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png?v=638664844220000000" alt="VSCode Logo" width="60">](https://github.com/) &nbsp;
+[<img src="https://www.svgrepo.com/show/361509/github-logo.svg" alt="VSCode Logo" width="60">](https://github.com/) &nbsp;
 
 
 
