@@ -17,9 +17,14 @@ As I am continuing the development of my portfolio, I am also looking forward to
 
 # Tech Stack
 
-<a href="https://soliditylang.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100">
-</a>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g fill="#E0E0E0"> <!-- Change fill to a lighter color -->
+    <a href="https://soliditylang.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="100">
+    </a>
+  </g>
+</svg>
 
 
 
