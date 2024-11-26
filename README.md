@@ -15,5 +15,10 @@ As I am continuing the development of my portfolio, I am also looking forward to
 - ⚡ You can visit my portfolio here:  [My Portfolio](https://mihaihanga-portfolio.netlify.app/)
 
 
-[![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)]
+# Tech Stack
+
+![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
+![Node.js Logo](https://nodejs.org/static/images/logo.svg)
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
 
