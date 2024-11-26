@@ -13,7 +13,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 - 👯 I’m looking to collaborate on Web3/Solidity projects 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mihai-hanga-03712749/)
 - ⚡ You can visit my portfolio here:  [My Portfolio](https://mihaihanga-portfolio.netlify.app/)
--->
+
 
 [![Solidity Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)](https://soliditylang.org)
 
