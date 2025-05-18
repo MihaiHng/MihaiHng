@@ -15,6 +15,27 @@ As I am continuing the development of my portfolio, I am also looking forward to
 - ⚡ You can visit my portfolio here:  [My Portfolio](https://mihaihanga-portfolio.netlify.app/)
 
 
+My Roadmap
+
+
+Present - Creating a minimal UI for Password Shielded Transfer
+        - Competing in First Flight Audits on Cyfrin
+
+May 2025 - Completed Password Shielded Transfer smart contract development
+
+Nov 2024 - Completed Advanced Foundry on Cyfrin updraft
+
+Oct 2024. - Completed Foundry Fundamentals on Cyfrin updraft
+
+Nov 2024 - Created MyPortfolio Website
+
+Sep 2024 - Created GreekGods NFT project + UI
+
+June 2024 - Created CreteToken ERC20 token implementation and faucet + UI
+
+Nov 2023 - Completed Ethereum and Solidity: The complete Developer’s Guide  
+
+
 # Tech Stack
 
 
