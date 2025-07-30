@@ -8,7 +8,7 @@ As I am continuing the development of my portfolio, I am also looking forward to
 💻 
 
 - 👀 Competing in smart contract audits in First Flights on Cyfrin
-- 🔭 Completed a new project - Smart Transfer [Smart Transfer](https://smart-transfer.netlify.app/)   [Github](https://github.com/MihaiHng/Password-Shielded-Transfer) 
+- 🔭 Completed a new project - Smart Transfer [Smart Transfer](https://smart-transfer.netlify.app/)  |  [Github](https://github.com/MihaiHng/Password-Shielded-Transfer) 
 - 👯 I’m looking to collaborate on Web3/Solidity projects 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihai-hanga-03712749/)
 - ⚡ You can visit my portfolio here:  [My Portfolio](https://mihaihanga-portfolio.netlify.app/)
