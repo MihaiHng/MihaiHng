@@ -2,8 +2,12 @@
 
 💻
 
-Even though I’ve built a successful career in design engineering for automotive interiors, my passion for blockchain technology has led me down this new and exciting path. Having a foundation in programming from my high school and university days and a curiosity for blockchain, I’ve been researching this field through books and online courses on Ethereum, Solidity and Smart Contracts. This exploration turned into hands-on development, starting with personal projects like an ERC20 token contract with a functional faucet and an ERC721 NFT minting platform. 
-As I am continuing the development of my portfolio, I am also looking forward to opportunities that will allow me to collaborate with experienced blockchain professionals. Whether its entry-level roles or connecting with like-minded individuals, I’m eager to contribute to real-world projects, expand my knowledge, and grow in the blockchain space.
+I’m passionate about blockchain and have been exploring the space through hands-on smart contract development. With a foundation in programming from my early education, I’ve developed my understanding through books and online courses focused on Ethereum, Solidity, and the EVM.
+
+My latest project, Smart Transfer(1000+ lines of Solidity code and 100+ tests written) helped me navigate the full development cycle of smart contracts—from writing and testing, gas optimization, security guidelines to deploying on EVM-compatible networks— all while learning to write well documented, readable and maintainable code.
+
+As I continue building out my portfolio, I’m eager to contribute to real-world projects and grow within the web3 ecosystem. I'm actively looking for entry-level opportunities or open-source collaborations where I can add value and continue learning.
+
 
 💻 
 
