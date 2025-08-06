@@ -51,9 +51,6 @@ As I continue building out my portfolio, I’m eager to contribute to real-world
 [<img src="https://images.ctfassets.net/t3wqy70tc3bv/4tl7aEnEwJyvmUxPKqR2KH/2ad9232b3e2e462c88aa27262ce93deb/OpenZeppelin_Logo.jpeg" alt="OpenZeppelin Logo" width="50">](https://www.openzeppelin.com/) &nbsp; &nbsp;
 [<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry Logo" width="50">](https://github.com/foundry-rs) &nbsp; &nbsp;
 [<img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" alt="Hardhat Logo" width="50">](https://hardhat.org) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="55">](https://www.javascript.com/) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="Html Logo" width="70">](https://html.com/) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50">](https://www.w3schools.com/css/) 
 [<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="React Logo" width="100">](https://react.dev/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite Logo" width="60">](https://vite.dev/) &nbsp; &nbsp; &nbsp;
 [<img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VSCode Logo" width="60">](https://code.visualstudio.com/) &nbsp; &nbsp; &nbsp;
