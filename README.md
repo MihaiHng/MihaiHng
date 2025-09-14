@@ -4,7 +4,7 @@
 
 I’m passionate about blockchain and have been exploring the space through hands-on smart contract development. With a foundation in programming from my early education, I’ve developed my understanding through books and online courses focused on Ethereum, Solidity, and the EVM.
 
-My latest project, Smart Transfer(1000+ lines of Solidity code and 100+ tests written) helped me navigate the full development cycle of smart contracts—from writing and testing, gas optimization, security guidelines to deploying on EVM-compatible networks— all while learning to write well documented, readable and maintainable code.
+My latest project, Smart Transfer(1000+ lines of Solidity code and 100+ Foundry tests: unit, fuzzing, invariant) helped me navigate the full development cycle of smart contracts—from writing and testing, gas optimization, security guidelines to deploying on EVM-compatible networks— all while learning to write well documented, readable and maintainable code.
 
 As I continue building out my portfolio, I’m eager to contribute to real-world projects and grow within the web3 ecosystem. I'm actively looking for entry-level opportunities or open-source collaborations where I can add value and continue learning.
 
