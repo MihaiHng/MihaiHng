@@ -25,6 +25,10 @@ As I continue building out my portfolio, I’m eager to contribute to real-world
 🛠️ Present:
    - Working on a new project involving crypto payments
    - Competing in auditing smart contracts in First Flights on Cyfrin
+
+✅ December 2025 - Completed Assembly and Formal Verification on on Cyfrin Updraft
+
+✅ October 2025 - Completed Smart Contract Security on Cyfrin Updraft
      
 ✅ July 2025 - Completed Smart Transfer UI
 
