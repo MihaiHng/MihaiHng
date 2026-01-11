@@ -18,34 +18,6 @@ As I continue building out my portfolio, I’m eager to contribute to real-world
 - ⚡ You can visit my portfolio here:  [My Portfolio](https://mihaihanga-portfolio.netlify.app/)
 
 
-:world_map:  
-# My Roadmap
-
-
-🛠️ Present:
-   - Working on a new project involving crypto payments
-   - Competing in auditing smart contracts in First Flights on Cyfrin
-
-✅ December 2025 - Completed Assembly and Formal Verification on on Cyfrin Updraft
-
-✅ October 2025 - Completed Smart Contract Security on Cyfrin Updraft
-     
-✅ July 2025 - Completed Smart Transfer UI
-
-✅ May 2025 - Completed Smart Transfer smart contract development 
-
-✅ Nov 2024 - Completed Advanced Foundry on Cyfrin updraft
-
-✅ Oct 2024. - Completed Foundry Fundamentals on Cyfrin updraft
-
-✅ Nov 2024 - Created MyPortfolio Website
-
-✅ Sep 2024 - Created GreekGods NFT project + UI
-
-✅ June 2024 - Created CreteToken ERC20 token implementation and faucet + UI
-
-✅ Nov 2023 - Completed Ethereum and Solidity: The complete Developer’s Guide  
-
 
 # Tech Stack
 
