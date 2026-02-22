@@ -4,14 +4,14 @@
 
 I’m passionate about blockchain and have been exploring the space through hands-on smart contract development. With a foundation in programming from my early education, I’ve developed my understanding through books and online courses focused on Ethereum, Solidity, and the EVM.
 
-My latest project, Smart Transfer(1000+ lines of Solidity code and 100+ Foundry tests: unit, fuzzing, invariant) helped me navigate the full development cycle of smart contracts—from writing and testing, gas optimization, security guidelines to deploying on EVM-compatible networks— all while learning to write well documented, readable and maintainable code.
+My latest projects, helped me navigate the full development cycle of smart contracts—from writing and testing, gas optimization, security guidelines to deploying on EVM-compatible networks, while learning to write well documented, readable and maintainable code.
 
 As I continue building out my portfolio, I’m eager to contribute to real-world projects and grow within the web3 ecosystem. I'm actively looking for entry-level opportunities or open-source collaborations where I can add value and continue learning.
 
 
 💻 
 
-- 👀 Competing in smart contract audits in First Flights on Cyfrin
+- 👀 WIP Payment Processing Protocol -> aims to settle FIAT payments on blockchain powered platforms
 - 🔭 Completed a new project - Smart Transfer [Smart Transfer](https://smart-transfer.netlify.app/)  |  [Github](https://github.com/MihaiHng/Password-Shielded-Transfer) 
 - 👯 I’m looking to collaborate on Web3/Solidity projects 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihai-hanga-03712749/)
